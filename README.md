@@ -36,3 +36,15 @@ There are many cities I would like to visit in the future. I enjoy places with b
 | Barcelona, Spain | Beaches, architecture, and city life | About 4,700 miles | About $1,400 |
 | Cape Town, South Africa | Beaches, mountains, and ocean views | About 7,600 miles | About $1,800 |
 | Honolulu, Hawaii | Beaches, warm weather, and outdoor activities | About 4,850 miles | About $1,600 |
+
+---
+
+## Favorite Sayings
+
+### Albert Einstein
+
+> Life is like riding a bicycle. To keep your balance, you must keep moving.
+
+### Steve Jobs
+
+> Stay hungry. Stay foolish.
