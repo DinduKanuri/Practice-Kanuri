@@ -11,3 +11,9 @@ Robert Downey Jr. is my favorite actor because he makes his characters **interes
 1. Avengers: Endgame
 2. Iron Man
 3. Spider-Man: No Way Home
+
+## Favorite Songs
+
+- Blinding Lights
+- Believer
+- Counting Stars
