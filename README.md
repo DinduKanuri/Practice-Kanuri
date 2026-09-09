@@ -48,3 +48,29 @@ There are many cities I would like to visit in the future. I enjoy places with b
 ### Steve Jobs
 
 > Stay hungry. Stay foolish.
+
+---
+
+## Eight Queens Code Example
+
+This Java code is an example of the N-Queens problem. It finds a way to place queens on a chessboard so that they do not attack each other.
+
+```java
+import java.util.Arrays;
+import java.util.ArrayList;
+
+public class EightQueens {
+
+
+	public static void main(String[] args) {
+			solveNQueens(8);
+			ArrayList<char[][]> solutions = getAllNQueens(8);
+			System.out.println( solutions.size() );
+			for( int i = 0; i < solutions.size(); i++){
+				System.out.println("\n\nSolution " + (i+1));
+				if( queensAreSafe(solutions.get(i)) )
+					printBoard(solutions.get(i));
+				else
+```
+
+[Eight Queens Code Source](https://www.cs.utexas.edu/~scottm/cs307/javacode/codeSamples/EightQueens.java)
